@@ -29,7 +29,9 @@
   }
 
 
-
+   body{
+      overflow-y: hidden;
+}
   
 
 .main {
